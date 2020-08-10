@@ -1,11 +1,11 @@
-### Nossa! como você veio parar aqui ? 🤔
-### Muito prazer, me chamo Vanderson Teodoro Camatini.
+### Wow!! How did you get here? 🤔
+### Nice to meet you, my name is Vanderson Teodoro Camatini.
 
-Aqui vai um pouquinho sobre mim:
-- :computer: Atualmente trabalhando como programador PHP na Ydeal Tecnologia.
-- :bookmark_tabs: Minha stack atualmente é PHP / Javascript / MySQL. ( E eu também "programo" HTML e CSS, kkk).
-- :school: Estou cursando o técnologo de Sistemas para Internet na UNIVALI de Itajaí.
-- :book: Estudando Nodejs, ReactJs, ReactNative e tudo que estiver em volta desse ecossistema maluco e incrível.
-- :heart: Amo os animais, programar, jogar video game, assistir animes e séries, e principalmente o desconhecido e seus mistérios.
-- :muscle: Ainda estou no início da minha caminhada, porém, pode contar comigo pra qualquer parada, tudo que é feito com esforço e dedicação retorna bons frutos.
-- :mailbox_with_no_mail: Pode entrar em contato comigo via: [![Linkedin Badge](https://img.shields.io/badge/-VandersonCamatini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanderson-camatini/)](https://www.linkedin.com/in/vanderson-camatini/)  [![Gmail Badge](https://img.shields.io/badge/-vandersoncamatini66@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vandersoncamatini66@gmail.com)](mailto:vandersoncamatini66@gmail.com)
+Here have a little bit about me:
+- :computer: Currently working as PHP Programmer at Ydeal Tecnologia.
+- :bookmark_tabs: My current stack is PHP / Javascript / MySQL. ( And i "program" HTML and CSS, you know?  :joy:)
+- :school: I am studying Internet Systems Technician at UNIVALI in Itajaí.
+- :book: I am part of the rocketseat goStack 13.0 bootcamp class, studying ReactJs, ReactNative and everything around this crazy and amazing ecosystem.
+- :heart: Love animals, program, play video game, watch series and films, and a real fan of God Of War.
+- :muscle: I am still at the beginning of my journey, however, you can count on me for any stop, everything that is done with effort and dedication returns good results.
+- :mailbox_with_no_mail: You can contact me in: [![Linkedin Badge](https://img.shields.io/badge/-VandersonCamatini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanderson-camatini/)](https://www.linkedin.com/in/vanderson-camatini/)  [![Gmail Badge](https://img.shields.io/badge/-vandersoncamatini66@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vandersoncamatini66@gmail.com)](mailto:vandersoncamatini66@gmail.com)

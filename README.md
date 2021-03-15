@@ -1,4 +1,4 @@
-### Wow!! How did you get here? 🤔
+### How did you get here? 🤔
 ### Nice to meet you, my name is Vanderson Teodoro Camatini.
 
 Here have a little bit about me:

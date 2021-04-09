@@ -2,7 +2,7 @@
 ### Nice to meet you, my name is Vanderson Teodoro Camatini.
 
 Here have a little bit about me:
-- :computer: Currently working as PHP Programmer at Ydeal Tecnologia.
+- :computer: Currently working as Full Stack Developer at Pedidos10.
 - :bookmark_tabs: My current stack is PHP / Javascript / MySQL. ( And i "program" HTML and CSS, you know?  :joy:)
 - :school: I am studying Internet Systems Technician at UNIVALI in Itajaí.
 - :book: I am part of the rocketseat goStack 13.0 bootcamp class, studying ReactJs, ReactNative and everything around this crazy and amazing ecosystem.
